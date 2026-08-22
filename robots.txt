@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-zvtqlz.evostoto77mad.site/sitemap.xml
